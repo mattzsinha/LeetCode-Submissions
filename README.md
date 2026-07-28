@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview.
 | [1084-sales-analysis-iii](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1179-reformat-department-table) |
+## Array
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mattzsinha/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
